@@ -1,2 +1,1 @@
-![Preview Img](files/preview1.png
-)
+![Preview Img](files/preview1.png)
